@@ -45,15 +45,5 @@ To build and run these games, you will need to have a C++ compiler and the Rayli
     ```bash
     g++ your_game_file.cpp -o your_game_name -lraylib
     ```
-
-### Adding More Games
-
-Feel free to add more of your game projects to this repository. Please create a new sub-directory for each game project and update this `README.md` file with its name and a brief description.
-
-## License
-
-This project is open-source and available under the MIT License.
-
-## Contact
-
-- **Your Name Here**
+3.  **If you just want to play :** Open the game folder in vscode and use f5 to build the game:
+- **Medjitna Belkacem**
