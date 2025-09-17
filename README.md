@@ -46,4 +46,5 @@ To build and run these games, you will need to have a C++ compiler and the Rayli
     g++ your_game_file.cpp -o your_game_name -lraylib
     ```
 3.  **If you just want to play :** Open the game folder in vscode and use f5 to build the game:
+4.  **note :** if you want to download multiplae games just dowmload the dll files once .
 - **Medjitna Belkacem**
